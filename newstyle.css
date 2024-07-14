@@ -1,0 +1,31 @@
+#main4 {
+    border: 5px solid black;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px 10px 10px;
+    margin: auto;
+    margin-top: 250px;
+    background: transparent;
+    color: black;
+    backdrop-filter: blura(5px);
+    background:pink;
+  }
+  h5 {
+    margin-top: 30px;
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 30px;
+    text-align: center;
+  }
+  body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-YNAa_1TzKkFqYyfkYQvLXHBwm2g5eappA&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+span{
+    color: blue;
+    margin-left: 75px;
+    
+}
